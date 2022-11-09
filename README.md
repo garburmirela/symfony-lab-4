@@ -1,8 +1,17 @@
 # symfony-lab-4
 Laboratorul 4 la Symfony
 
-## Step 1
+### Clone the repository
+`git clone https://github.com/garburmirela/symfony-lab-4.git`
+
+### Change directory
+cd symfony-lab-4
+
+## Install composer dependencies
 ```composer install```
 
-## Step 2
+## Start symfony server
 ```symfony server:start```
+
+### Visit http://localhost:8000
+http://localhost:8000
